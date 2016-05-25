@@ -26,7 +26,7 @@ public class SignUp extends testCore{
 		
 		driver.findElement(By.xpath(object.getProperty("createAccount_submit"))).click();
 		
-		return new MyAccount();
+		return new MyAccount();jhkjhkjhjkhkjhkhjk
 		
 	}
 	
